@@ -16,7 +16,7 @@
 `Visual Studio Code` `Draw.io` `Figma` `Unity` `Firebase` `AWS` `MS SQL` `Git` `GitHub`
 
 ## Contact 🤝
-[**Portfolio**](https://ahmedkhalifadev.com/)   |   [**LinkedIn**](https://www.linkedin.com/in/ak1o9/)   |   [**Leetcode**](https://leetcode.com/AK1o9/) 
+[**Portfolio**](https://ahmedkhalifadev.com/)   |   [**LinkedIn**](https://www.linkedin.com/in/a-ali-khalifa/)   |   [**Leetcode**](https://leetcode.com/AK1o9/) 
 
 
 ## Stats 📊
