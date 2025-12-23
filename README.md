@@ -4,7 +4,7 @@
 
 ## About 😄
 - 🧑‍💻 Junior developer with a passion for web & game development.
-- ⚙️ Familiar with multiple technologies but mostly use **React, TypeScript, Python, C#, Flutter** and **Firebase**.
+- ⚙️ Familiar with **React, TypeScript, Python, C#, Flutter** and **Firebase**, alongside other technologies.
 - 🧠 Enthusiastic about topics like **AI, data analysis, blockchains** and **cloud development**.
 - 🌱 Currently practicing **NextJS** and **Redux**.
 
