@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak1o9&label=Profile%20views&color=0e75b6&style=flat" alt="ak1o9" /> </p>
 
-## About 😄
+## About 😊
 - 🧑‍💻 Junior developer with a passion for web & game development.
 - ⚙️ Familiar with **React, TypeScript, Python, C#, Flutter** and **Firebase**, alongside other technologies.
 - 🧠 Enthusiastic about topics like **AI, data analysis, blockchains** and **cloud development**.
