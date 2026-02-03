@@ -18,10 +18,3 @@
 ## Contact 🤝
 [**Portfolio**](https://ahmedkhalifadev.com/)   |   [**LinkedIn**](https://www.linkedin.com/in/a-ali-khalifa/)   |   [**Leetcode**](https://leetcode.com/AK1o9/) 
 
-
-## Stats 📊
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-ali-khalifa&theme=transparent&show_icons=true&locale=en&layout=compact" alt="a-ali-khalifa" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-ali-khalifa&theme=transparent&show_icons=true&locale=en" alt="a-ali-khalifa" /></p>
